@@ -1,0 +1,30 @@
+Matériel nécessaire :
+
+    1 Arduino (Uno, Nano, etc.)
+    2 LED
+    2 résistances de 220 ohms
+    un potentiometre
+    Câbles de connexion
+    Une breadboard
+    
+    
+    Schéma de câblage :
+
+    Connectez les cathodes des LED (patte courte) à la borne GND de l'Arduino via la breadboard.
+    Connectez les anodes des LED (patte longue) :
+        Une LED à la broche D2 de l'Arduino via une résistance de 220 ohms.
+        Une autre LED à la broche D3 de l'Arduino via une autre résistance de 220 ohms.
+    Reliez le GND de l'Arduino à la borne GND de la breadboard.
+    
+    potentiometre(3pates):pate  de gauche  reliée au +5V, pate de droite reliée au GND , pate du milieu relier au digital
+    def:Les potentiomètres permettent de convertir un déplacement ou une rotation vers d'autres grandeurs physiques (résistance/tension/courant)
+    
+    Câblage précis :
+
+    Cathode de la LED (patte courte) : Connectez-la directement à la borne GND de l'Arduino (via la breadboard si nécessaire).
+    Anode de la LED (patte longue) : Connectez-la à une des broches numériques de l'Arduino (D2 pour la première LED, D3 pour la deuxième) en passant par une résistance de 220 ohms.
+    
+   
+    
+    
+    

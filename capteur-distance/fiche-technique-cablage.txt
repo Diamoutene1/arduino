@@ -1,0 +1,11 @@
+le capteur de distance ca fonctionne avec un emmetteur et un recepteur
+
+VCC=5V
+GND=GND
+TRIG(trigger==declencheur)=connecter au pin permet de recevoir un signal de l'arduino
+echo:connecter au pin permet de emetre un signal
+
+
+mettre un objet et capter la distance
+
+

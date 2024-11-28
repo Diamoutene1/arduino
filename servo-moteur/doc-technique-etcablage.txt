@@ -1,0 +1,7 @@
+un servo-moteur est un petit motuer qui tourne a 180degre 
+
+cablage
+
+fil rouge connecter au +5v
+fil marron  connecter au GND
+fil jaune connecter au pin (pWM)
